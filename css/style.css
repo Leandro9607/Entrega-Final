@@ -62,6 +62,12 @@ a {
   /* rtl:remove */
   letter-spacing: -.05rem;
 }
+
+/* Contact */
+
+.googlemap {
+  width: 100%;  
+}
   
   /* RESPONSIVE CSS
   -------------------------------------------------- */
